@@ -1,0 +1,18 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/jspark9703/movieql"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jspark9703/movieql"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "junsoo",
+  "license": "ISC"
+}
